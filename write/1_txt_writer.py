@@ -1,15 +1,11 @@
-some_file = open("../files/example.txt", "r")
+some_file = open("example_write.txt", "w")
 
-# Читаем кол-во байт
-print(some_file.read(7))
+text = """О сколько нам открытий чудных
+Готовят просвещенья дух
+И Гений парадоксов друг
+И Опыт сын ошибок трудных
+"""
 
-# Читаем строку
-print(some_file.readline())
-
-# Построчно массив
-print(some_file.readlines(), "\n")
-
-# Всё что осталось
-print(some_file.read())
+some_file.write(text)
 
 some_file.close()

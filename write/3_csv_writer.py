@@ -1,23 +1,8 @@
 import csv
-from csv import DictReader
 
-with open('../files/users.csv', newline='') as f:
-    reader = csv.reader(f)
+with open('eggs.csv', 'w', newline='') as csv_file:
+    writer = csv.writer(csv_file, delimiter=',',)
 
-    # Извлекаем заголовок
-    header = next(reader)
-
-    # Итерируемся по данным делая из них словари
-    for row in reader:
-        print(dict(zip(header, row)))
-
-
-print(100 * "+")
-
-
-with open('../files/users.csv', newline='') as f:
-    reader = DictReader(f)
-
-    # Итерируемся по данным делая из них словари
-    for row in reader:
-        print(row)
+    writer.writerow(['data', 'result', 'code'])
+    for i in range(10):
+        writer.writerow([i, i * 100, str(bin(i))])

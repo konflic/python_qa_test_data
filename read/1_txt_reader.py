@@ -1,4 +1,4 @@
-some_file = open("files/example.txt", "r")
+some_file = open("../files/example.txt", "r")
 
 # Читаем кол-во байт
 print(some_file.read(7))
