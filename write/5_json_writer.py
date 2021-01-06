@@ -2,8 +2,8 @@ import json
 
 data = {
     "users": [
-        {"Name": "Dominator", "skill": 100, "gold": 99999, "weapons": ['Sword', 'Atomic Laser']},
-        {"Name": "Looser", "skill": 1, "gold": -100000, "weapons": [None, None, None]},
+        {"Name": "Dominator", "skill": 100, "gold": 99999, "weapons": ['Sword', 'Atomic Laser'], "alive": True},
+        {"Name": "Looser", "skill": 1, "gold": -100000, "weapons": [None, None, None], "alive": False},
     ]
 }
 

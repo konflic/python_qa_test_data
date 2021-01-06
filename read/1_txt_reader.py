@@ -1,15 +1,21 @@
 some_file = open("../files/example.txt", "r")
 
-# Читаем кол-во байт
+# Read the exact bites amount
 print(some_file.read(7))
 
-# Читаем строку
+# Read a single line
 print(some_file.readline())
 
-# Построчно массив
+# Get all lines as list
 print(some_file.readlines(), "\n")
 
-# Всё что осталось
+# Read from current cursor position till the end
 print(some_file.read())
+
+# Position cursor within the file
+some_file.seek(0)
+
+# To open it as writable use r+
+# some_file.write("test")
 
 some_file.close()

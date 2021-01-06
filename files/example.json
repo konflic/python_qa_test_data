@@ -2,23 +2,27 @@
   "users": [
     {
       "name": "Dominator",
-      "rank": "1",
-      "gold": "100000"
+      "rank": 1,
+      "gold": "100000",
+      "dead": falseо
     },
     {
-      "name": "Looser",
-      "rank": "999",
-      "gold": "-100"
+      "name": "Cheater",
+      "rank": 999,
+      "gold": "-100",
+      "dead": true
     },
     {
       "name": "TheKiller",
-      "rank": "2",
-      "gold": "37745"
+      "rank": 2,
+      "gold": "37745",
+      "dead": true
     },
     {
       "name": "Vasya666",
-      "rank": "666",
-      "gold": "0"
+      "rank": 3,
+      "gold": "0",
+      "dead": false
     }
   ]
 }

@@ -3,7 +3,6 @@
 - txt
 - csv
 - json
-- xml
 - sqlite
 
 ### Чтение из файла

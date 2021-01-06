@@ -1,0 +1,7 @@
+url,method,status
+https://ya.ru,get,200
+https://ya.ru/saflkadjf,get,404
+https://yandex.ru/search,get,302
+https://yandex.ru/srfwrwqer,get,404
+http://yandex.ru,get,302
+http://yandex.ru,post,403
