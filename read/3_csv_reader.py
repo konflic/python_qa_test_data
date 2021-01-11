@@ -11,9 +11,7 @@ with open('../files/users.csv', newline='') as f:
     for row in reader:
         print(dict(zip(header, row)))
 
-
 print(100 * "+")
-
 
 with open('../files/users.csv', newline='') as f:
     reader = DictReader(f)

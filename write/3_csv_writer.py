@@ -1,7 +1,7 @@
 import csv
 
 with open('eggs.csv', 'w', newline='') as csv_file:
-    writer = csv.writer(csv_file, delimiter=',',)
+    writer = csv.writer(csv_file, delimiter=',', )
 
     writer.writerow(['data', 'result', 'code'])
     for i in range(10):

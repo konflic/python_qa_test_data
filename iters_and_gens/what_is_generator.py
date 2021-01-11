@@ -3,6 +3,7 @@ def squares(start, stop):
         # yield keyword is used!
         yield i * i
 
+
 generator = squares(1, 10)
 
 print(next(generator))

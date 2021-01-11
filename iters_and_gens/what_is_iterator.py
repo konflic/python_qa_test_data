@@ -1,4 +1,3 @@
-
 class MyNumbers:
 
     def __iter__(self):
@@ -12,6 +11,7 @@ class MyNumbers:
         # if self.a > 1000:
         #     raise StopIteration
         return x
+
 
 myclass = MyNumbers()
 
