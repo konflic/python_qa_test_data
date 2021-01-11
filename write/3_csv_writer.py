@@ -6,3 +6,5 @@ with open('eggs.csv', 'w', newline='') as csv_file:
     writer.writerow(['data', 'result', 'code'])
     for i in range(10):
         writer.writerow([i, i * 100, str(bin(i))])
+
+# TODO: 3. Попробуйте самостоятельно разобрать работу с методом DictWriter
