@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Lolita Lynn",
+        "gender": "female",
+        "address": "389 Neptune Avenue, Belfair, Iowa, 6116",
+        "books": [
+            {
+                "Title": "Fundamentals of Wavelets",
+                "Author": "Goswami, Jaideva",
+                "Genre": "signal_processing",
+                "Height": "228",
+                "Publisher": "Wiley"
+            }
+        ]
+    },
+    {
+        "name": "Tonia Hurst",
+        "gender": "female",
+        "address": "917 Terrace Place, Urbana, Idaho, 684",
+        "books": [
+            {
+                "Title": "Data Smart",
+                "Author": "Foreman, John",
+                "Genre": "data_science",
+                "Height": "235",
+                "Publisher": "Wiley"
+            }
+        ]
+    },
+    {
+        "name": "Brooks Bright",
+        "gender": "male",
+        "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
+        "books": [
+            {
+                "Title": "God Created the Integers",
+                "Author": "Hawking, Stephen",
+                "Genre": "mathematics",
+                "Height": "197",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Kathrine Sharp",
+        "gender": "female",
+        "address": "989 Huron Street, Talpa, Utah, 7018",
+        "books": [
+            {
+                "Title": "Superfreakonomics",
+                "Author": "Dubner, Stephen",
+                "Genre": "economics",
+                "Height": "179",
+                "Publisher": "HarperCollins"
+            }
+        ]
+    },
+    {
+        "name": "Shawn Harrell",
+        "gender": "female",
+        "address": "534 Hinsdale Street, Albany, Palau, 3291",
+        "books": [
+            {
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Height": "197",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Amy Casey",
+        "gender": "female",
+        "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
+        "books": [
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Height": "230",
+                "Publisher": "Springer"
+            }
+        ]
+    },
+    {
+        "name": "Lorena Mejia",
+        "gender": "female",
+        "address": "614 High Street, Blanford, Maryland, 2776",
+        "books": [
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Height": "217",
+                "Publisher": "Orient Blackswan"
+            }
+        ]
+    },
+    {
+        "name": "Allyson Wilkins",
+        "gender": "female",
+        "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
+        "books": [
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Height": "197",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Mays Reed",
+        "gender": "male",
+        "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
+        "books": [
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Height": "241",
+                "Publisher": "CRC"
+            }
+        ]
+    },
+    {
+        "name": "Katherine Mayer",
+        "gender": "female",
+        "address": "640 Prescott Place, Curtice, Kansas, 3395",
+        "books": [
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Height": "240",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Kelly Byers",
+        "gender": "female",
+        "address": "865 Revere Place, Homeland, Arizona, 232",
+        "books": [
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Height": "230",
+                "Publisher": "Apress"
+            }
+        ]
+    },
+    {
+        "name": "Schwartz Carey",
+        "gender": "male",
+        "address": "860 Centre Street, Hiwasse, Nevada, 2819",
+        "books": [
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Height": "198",
+                "Publisher": "Random House"
+            }
+        ]
+    },
+    {
+        "name": "Kay Beasley",
+        "gender": "female",
+        "address": "358 Sutton Street, Bellamy, Ohio, 8845",
+        "books": [
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Height": "234",
+                "Publisher": "Bodley Head"
+            }
+        ]
+    },
+    {
+        "name": "Robbins Gordon",
+        "gender": "male",
+        "address": "610 Langham Street, Boykin, Guam, 6688",
+        "books": [
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Height": "240",
+                "Publisher": "MIT Press"
+            }
+        ]
+    },
+    {
+        "name": "Hillary Bauer",
+        "gender": "female",
+        "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
+        "books": [
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Height": "238",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Ruiz Phelps",
+        "gender": "male",
+        "address": "836 Troutman Street, Harborton, Kentucky, 4030",
+        "books": [
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Height": "198",
+                "Publisher": "Random House"
+            }
+        ]
+    },
+    {
+        "name": "Carolina Bryant",
+        "gender": "female",
+        "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
+        "books": [
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Height": "236",
+                "Publisher": "MIT Press"
+            }
+        ]
+    },
+    {
+        "name": "Sosa Lee",
+        "gender": "male",
+        "address": "364 Holly Street, Omar, California, 5140",
+        "books": [
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Height": "242",
+                "Publisher": "Apress"
+            }
+        ]
+    },
+    {
+        "name": "Lorna Scott",
+        "gender": "female",
+        "address": "878 Marconi Place, Gerton, Alabama, 845",
+        "books": [
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Height": "180",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Bernard Holden",
+        "gender": "male",
+        "address": "674 Pine Street, Conestoga, Mississippi, 4727",
+        "books": [
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Height": "197",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Craft Shields",
+        "gender": "male",
+        "address": "586 Java Street, Catherine, Arkansas, 1445",
+        "books": [
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Height": "232",
+                "Publisher": "O'Reilly"
+            }
+        ]
+    },
+    {
+        "name": "Mara English",
+        "gender": "female",
+        "address": "324 Herkimer Court, Boomer, Delaware, 5367",
+        "books": [
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Height": "248",
+                "Publisher": "HBA"
+            }
+        ]
+    },
+    {
+        "name": "Fisher Levy",
+        "gender": "male",
+        "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
+        "books": [
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Height": "233",
+                "Publisher": "O'Reilly"
+            }
+        ]
+    },
+    {
+        "name": "Cecelia Snyder",
+        "gender": "female",
+        "address": "236 Anchorage Place, Odessa, Michigan, 6314",
+        "books": [
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Height": "233",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Nina Kaufman",
+        "gender": "female",
+        "address": "538 Ashford Street, Boling, West Virginia, 7840",
+        "books": [
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Height": "233",
+                "Publisher": "O'Reilly"
+            }
+        ]
+    },
+    {
+        "name": "Dillard Branch",
+        "gender": "male",
+        "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
+        "books": [
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Height": "234",
+                "Publisher": "MIT Press"
+            }
+        ]
+    },
+    {
+        "name": "Dyer Bartlett",
+        "gender": "male",
+        "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
+        "books": [
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Height": "198",
+                "Publisher": "Penguin"
+            }
+        ]
+    },
+    {
+        "name": "Tyler Dotson",
+        "gender": "male",
+        "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
+        "books": [
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Height": "198",
+                "Publisher": "Penguin"
+            }
+        ]
+    }
+]
