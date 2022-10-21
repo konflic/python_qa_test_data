@@ -24,3 +24,6 @@ print(d)
 
 print(next(generator))
 print(next(generator))
+
+
+# Самостоятельно изучить https://www.geeksforgeeks.org/iterators-in-python/

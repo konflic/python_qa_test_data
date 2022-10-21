@@ -1,6 +1,7 @@
 import sqlite3
+from files import SQLITE_FILE_PATH
 
-connection = sqlite3.connect("../files/data.sqlite")
+connection = sqlite3.connect(SQLITE_FILE_PATH)
 
 result = connection.execute("SELECT name, rank, gold FROM users;")
 

@@ -6,15 +6,15 @@ from csv import reader
 
 
 def request_method(method_string: str):
-    """Transform string to requests method"""
+    """Transform string to request method"""
     return requests.get if method_string.lower() == "get" else requests.post
 
 
 # Getting data from .csv file with DictReader
-data_dictreader = DictReader(open("test_data.csv"))
+api_test_data = DictReader(open("test_data.csv"))
 
 
-@pytest.mark.parametrize("entry", data_dictreader)
+@pytest.mark.parametrize("entry", api_test_data)
 def test_dict_reader(entry):
     method = entry['method']
     url = entry["url"]

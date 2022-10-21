@@ -1,3 +1,5 @@
+import faker
+
 some_file = open("example_write.txt", "w")
 
 text = """О сколько нам открытий чудных

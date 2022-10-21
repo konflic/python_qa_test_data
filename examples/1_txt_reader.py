@@ -1,4 +1,6 @@
-some_file = open("../files/example.txt", "r")
+from files import TXT_FILE_PATH
+
+some_file = open(TXT_FILE_PATH, "r")
 
 # Read the exact bites amount
 print(some_file.read(7))
